@@ -1,6 +1,6 @@
 # neural-network-counter
 
-From the blog posting: 
+From blog posting: https://aimlfun.com/neural-network-with-memory/
 
 This application requires .net6 and Visual Studio 2022 (Community works).
 
